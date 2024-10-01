@@ -16,7 +16,7 @@ Promover la democratización de los cuidados y la inclusión de las mujeres al m
 
 - [data](https://github.com/semilun4/Dataton_Cuidados_2024/tree/main/data): Contiene los datos de los mapas y la base creada manualmente con indicadores de las alcaldías.
 - [syntax](https://github.com/semilun4/Dataton_Cuidados_2024/tree/main/syntax): Contiene los códigos que se desarrollaron.
-- [syntax](https://github.com/semilun4/Dataton_Cuidados_2024/tree/main/syntax): Contiene los códigos que se desarrollaron.
+- [doc](https://github.com/semilun4/Dataton_Cuidados_2024/tree/main/doc): Contiene el documento final.
 
 ----------------------------------------------------------------------------------------------
 ## Link a la página
